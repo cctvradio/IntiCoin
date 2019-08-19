@@ -1,0 +1,16 @@
+Purchase type: Coin
+Compiling OS: Ubuntu 18.04 LTS
+Source branch: 0.17
+Algorithm: SHA-256
+Block type: Proof-of-Work
+Coin name: Inticoin
+Coin abbreviation: INTI
+Address letter: T
+Coin unit: In
+RPC port: 11807
+P2P port: 11808
+Block reward: 50 coins
+Block halving: 200000 blocks
+Coin supply: 20000000 coins
+Website URL: https://www.winget.cf
+Github URL: https://github.com/cctvradio
